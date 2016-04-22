@@ -1,3 +1,3 @@
-# gocode
+# gosrc
 
 some gocode
